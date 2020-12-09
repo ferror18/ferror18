@@ -1,15 +1,15 @@
 ### Hi there I'm Manuel👋
 - 🔭 I’m currently working on ...
-Lambda School Labs - AlexCruz Website - My portfolio
+Lambda School Labs - manuelmuratalla.com
 - 🌱 I’m currently learning ...
-GraphQl - AWS - Next.js - Typescript
+GraphQl - AWS - Typescript
 - 👯 I’m looking to collaborate on ...
-Next.js/React
+React - GraphQl projects
 - 🤔 I’m looking for help with ...
 AWS
 - 💬 Ask me about ... anythig
-- 📫 How to reach me: ... business@manuelmuratalla.com
+- 📫 How to reach me: ... jobs@manuelmuratalla.com
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ...
-Dev by day gamer by night!
+Willing to relocate!
 -->
