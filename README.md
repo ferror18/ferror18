@@ -11,5 +11,5 @@ AWS
 - 📫 How to reach me: ... jobs@manuelmuratalla.com
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ...
-Willing to relocate!
+Looking for work and willing to relocate!
 -->
