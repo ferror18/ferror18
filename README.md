@@ -8,7 +8,7 @@ React - GraphQl projects
 - 🤔 I’m looking for help with ...
 AWS
 - 💬 Ask me about ... anythig
-- 📫 How to reach me: ... jobs@manuelmuratalla.com
+- 📫 How to reach me: ... manuelfmuratalla@gmail.com
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ...
 Looking for work and willing to relocate!
