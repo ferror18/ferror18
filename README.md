@@ -1,15 +1,14 @@
 ### Hi there I'm Manuel👋
 - 🔭 I’m currently working on ...
-Lambda School Labs - manuelmuratalla.com
+Anywhere Fitness - manuelmuratalla.com
 - 🌱 I’m currently learning ...
-GraphQl - AWS - Typescript
+Next.js - AWS - Typescript
 - 👯 I’m looking to collaborate on ...
-React - GraphQl projects
+React - Next.js
 - 🤔 I’m looking for help with ...
 AWS
-- 💬 Ask me about ... anythig
+- 💬 Ask me about ... music
 - 📫 How to reach me: ... manuelfmuratalla@gmail.com
-- 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ...
-Looking for work and willing to relocate!
+I love making from scratch pizza
 -->
